@@ -41,4 +41,3 @@ Expanded buildKey(Color color, int soundNumber) {
     ),
   );
 }
-
